@@ -4,3 +4,4 @@ npx expo install firebase
 
 #para error de web 
 $env:NODE_OPTIONS="--openssl-legacy-provider"
+

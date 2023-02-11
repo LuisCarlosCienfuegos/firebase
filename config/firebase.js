@@ -1,6 +1,6 @@
 // tiene la configuracion general de firebase
 import { initializeApp } from "firebase/app";
-import { getDatabase, ref, set } from "firebase/database";
+// import { getDatabase, ref, set } from "firebase/database";
 
 const firebaseConfig = {
   apiKey: "AIzaSyCdF8w7juMbW8IzoYnSD9gt3SKPd9laXVA",
@@ -16,4 +16,4 @@ const firebaseConfig = {
 // inicia la app con la configuracion de firebase
 const app = initializeApp(firebaseConfig);
 
-export { app, getDatabase, ref, set };
+export { app };
