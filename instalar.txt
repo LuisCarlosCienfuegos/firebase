@@ -1,0 +1,3 @@
+instalar
+blog (https://docs.expo.dev/guides/using-firebase/#using-firebase-js-sdk)
+npx expo install firebase
